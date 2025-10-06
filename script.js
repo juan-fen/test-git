@@ -14,3 +14,9 @@
 //     newButton.remove();
 //   });
 // });
+
+//   newButton.addEventListener("click", () => {
+//     deleteDiv.remove();
+//     newButton.remove();
+//   });
+// });
